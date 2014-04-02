@@ -1,0 +1,4 @@
+automat-minimal
+===============
+
+Automat minimal
